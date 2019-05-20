@@ -26,3 +26,6 @@ Set the name(or path) of the wordlist to be created : test.txt
 [+] Wordlist generated : test.txt - 110000 lines
 
 ```
+
+## Author
+* **Goutham** - [G0uth4m](https://github.com/G0uth4m)
